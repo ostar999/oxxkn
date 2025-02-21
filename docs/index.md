@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "欧星星的内测"
-  text: "知识库"
-  tagline: 只有知识才能带来长久满足
+  name: "欧星星的知识库"
+  text: "读书是学习，使用也是学习，而且是更重要的学习。——《毛泽东选集》"
+  tagline: 知识是人类跨越时空的薪火，点燃人类文明
   actions:
     - theme: brand
       text: Markdown Examples
