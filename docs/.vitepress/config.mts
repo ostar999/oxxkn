@@ -1,10 +1,13 @@
 import { defineConfig } from "vitepress";
 
+// https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/oxxkn/",
   title: "欧星星的知识库",
-  description: "A VitePress Site",
+  description: "A VitePress Site", // .vitepress/config.js 或 vite.config.js
+  ignoreDeadLinks: true,
   themeConfig: {
+    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "示例", link: "/examples/markdown-examples" },
       { text: "ai", link: "/ai/ai-yy" },
