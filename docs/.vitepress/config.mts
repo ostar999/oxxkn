@@ -34,6 +34,7 @@ export default defineConfig({
           text: "简介",
           items: [
             { text: "VitePress 是什么？", link: "/guide/what-is-vitepress" },
+            { text: "路由", link: "/guide/routing" },
           ],
         },
       ],
