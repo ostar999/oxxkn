@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "欧星星的知识库"
-  text: "读书是学习，使用也是学习，而且是更重要的学习。——《毛泽东选集》"
+  text: "用知识武装自己"
   tagline: 知识是人类跨越时空的薪火，点燃人类文明
   actions:
     - theme: brand
