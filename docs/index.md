@@ -24,7 +24,7 @@ features:
   - icon: 🖥️
     title: 编程与开发
     details: 搭建网站、参与开源、共享技术、共同进步
-  - icon: 🎵
+  - icon: 🎹
     title: 音乐
     details: 音乐鉴赏与演奏、资源分享、音乐创作
   - icon: 📖

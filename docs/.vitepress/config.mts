@@ -3,6 +3,7 @@ import AutoSidebar from "vite-plugin-vitepress-auto-sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/oxxkn/",
   title: "欧星星",
   lang: "zh-Hans",
   description: "A VitePress Site", // .vitepress/config.js 或 vite.config.js
